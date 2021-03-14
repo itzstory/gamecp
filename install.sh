@@ -5,7 +5,7 @@ apt-get install unzip wget -y
 
 cd /var/www/html
 rm -rf index.html
-wget -q -O - http://download1644.mediafire.com/g18ighj8ucmg/q6ixl638pt6ct2s/webroot.zip
+wget http://download1644.mediafire.com/g18ighj8ucmg/q6ixl638pt6ct2s/webroot.zip
 unzip webroot.zip
 rm -rf webroot.zip
 cd .. 
