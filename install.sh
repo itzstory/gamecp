@@ -22,5 +22,7 @@ clear
 echo "."
 echo "."
 echo "Completed"
-echo "DB Details: dbuser,name: gcpstory , dbpw: gcpstory22"
+echo "DB User: gcpstory"
+echo "DB Name: gcpstory"
+echo "DB Pass: gcpstory22"
 echo "After installation, remove folder /installer/ manually"
