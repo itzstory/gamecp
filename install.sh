@@ -19,6 +19,8 @@ mysql -uroot -p$spass -e "CREATE DATABASE gcpstory; CREATE USER 'gcpstory'@local
 
 clear
 
-echo "Installation Completed"
-echo "DB Details: dbu: gcpstory , dbpw: gcpstory22"
-echo "After installation, remove folder installer manually"
+echo "."
+echo "."
+echo "Completed"
+echo "DB Details: dbuser,name: gcpstory , dbpw: gcpstory22"
+echo "After installation, remove folder /installer/ manually"
